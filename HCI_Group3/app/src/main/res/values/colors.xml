@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Brand colors (pleasant, accessible palette) -->
+    <color name="md_theme_primary">#4F46E5</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_secondary">#06B6D4</color>
+    <color name="md_theme_onSecondary">#000000</color>
+    <color name="md_theme_background">#FFFFFF</color>
+    <color name="md_theme_onBackground">#0F172A</color>
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_onSurface">#0F172A</color>
+
+    <!-- Accent for interactive elements -->
+    <color name="brand_accent">#F97316</color>
+
+    <!-- A subtle gray for controls -->
+    <color name="control_gray">#E6E9EE</color>
+
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="red">#E40C0C</color>
 
-
-
-        <color name="lightGreen">#e8f5e9</color>
-        <color name="lightRed">#ffebee</color>
-
-
+    <color name="lightGreen">#e8f5e9</color>
+    <color name="lightRed">#ffebee</color>
 </resources>
