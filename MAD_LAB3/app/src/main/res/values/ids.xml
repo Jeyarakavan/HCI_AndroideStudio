@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <id name="textViewSignup" />
+    <id name="buttonLogin" />
+    <id  name="category" />
+    <id  name="editBtn" />
+    <id  name="deleteBtn" />
+    <id name="addButton" />
+    <id name="amountInput" />
+    <id name="labelInput" />
+    <id name="label" />
+    <id name="amount" />
+    <id name="editButton" />
+    <id name="deleteButton" />
+
+    <id name="dateTextView" />
+</resources>
